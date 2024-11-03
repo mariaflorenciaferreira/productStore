@@ -1,0 +1,27 @@
+{
+  "name": "productstore",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000d\u0000u\u0000c\u0000t\u0000S\u0000t\u0000o\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000 tests/specs --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaflorenciaferreira/productStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaflorenciaferreira/productStore/issues"
+  },
+  "homepage": "https://github.com/mariaflorenciaferreira/productStore#readme",
+  "dependencies": {
+    "@playwright/test": "^1.48.2",
+    "selenium-webdriver": "^4.26.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
